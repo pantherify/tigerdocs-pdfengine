@@ -1,0 +1,6 @@
+@tigerdocs_pdfengine_HostAddress = http://localhost:5228
+
+GET {{tigerdocs_pdfengine_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
